@@ -5,15 +5,14 @@ channels:
   - nvidia
   - defaults
 dependencies:
-  - python
+  - python==3.9
   - pip
   - pytorch
   - ipykernel
-  - numpy
+  - numpy==1.26.4
   - matplotlib
   - scikit-learn
   - h5py
   - pip:
       - tqdm
       - torch_topological
-      - json
