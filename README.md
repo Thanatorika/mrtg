@@ -14,3 +14,12 @@ conda activate mrtg
 
 ## Demos
 We currently have a demo jupyter notebook with the Mammoth dataset. Please run the notebook to get an experience of our model.
+
+## Sources
+We use [Pytorch-topological](https://github.com/aidos-lab/pytorch-topological) to realize our topological and geometric model components.
+
+The Mammoth dataset is retrieved from https://github.com/PAIR-code/understanding-umap/blob/master/raw_data/mammoth_3d.json.
+
+The PartNet dataset is retrived from https://huggingface.co/datasets/ShapeNet/PartNet-archive.
+
+The Swiss roll dataset is generated with [Scikit-learn](https://scikit-learn.org/), and the Spheres dataset is generated with Pytorch-topological.
