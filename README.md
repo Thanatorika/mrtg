@@ -10,7 +10,7 @@ Please access the arXiv pdf version here:
 To set up the environment, run the following command in a Terminal:
 
 ```
-conda env create --file=environment_gpu.yml
+conda env create --file=environment.yml
 conda activate mrtg
 ```
 
