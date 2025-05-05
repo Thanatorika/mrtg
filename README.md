@@ -1,5 +1,7 @@
 # Latent Manifold Reconstruction and Representation with Topological and Geometrical Regularization
 
+![show](https://github.com/user-attachments/assets/4d49d799-08f8-4488-8552-5644ba8f30e9)
+
 Accepted by International Conference On Intelligent Computing (ICIC) 2025.
 
 Please access the arXiv pdf version here: 
