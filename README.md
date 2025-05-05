@@ -15,7 +15,7 @@ conda activate mrtg
 ```
 
 ## Demos
-We currently have a demo jupyter notebook with the Mammoth dataset. Please run the notebook to get an experience of our model.
+We have a demo jupyter notebook with the Mammoth dataset. Please run the notebook to get an experience of our model.
 
 ## Sources
 We use [Pytorch-topological](https://github.com/aidos-lab/pytorch-topological) to realize our topological and geometric model components.
