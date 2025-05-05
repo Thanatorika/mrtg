@@ -2,4 +2,4 @@
 
 Accepted by International Conference On Intelligent Computing (ICIC) 2025.
 
-Please access the ArXiv pdf version here: 
+Please access the arXiv pdf version here: 
