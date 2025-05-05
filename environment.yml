@@ -1,0 +1,19 @@
+name: mrtg
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python
+  - pip
+  - pytorch
+  - ipykernel
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - h5py
+  - pip:
+      - tqdm
+      - torch_topological
+      - json
