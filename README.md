@@ -7,7 +7,7 @@ Accepted by International Conference On Intelligent Computing (ICIC) 2025.
 Please access the arXiv pdf version here: 
 
 ## Installation
-To set up the environment, run the following command in a Terminal:
+To set up the environment, run the following command in a terminal:
 
 ```
 conda env create --file=environment.yml
@@ -22,6 +22,6 @@ We use [Pytorch-topological](https://github.com/aidos-lab/pytorch-topological) t
 
 The Mammoth dataset is retrieved from https://github.com/PAIR-code/understanding-umap/blob/master/raw_data/mammoth_3d.json.
 
-The PartNet dataset is retrived from https://huggingface.co/datasets/ShapeNet/PartNet-archive.
+The PartNet dataset is retrieved from https://huggingface.co/datasets/ShapeNet/PartNet-archive.
 
 The Swiss roll dataset is generated with [Scikit-learn](https://scikit-learn.org/), and the Spheres dataset is generated with Pytorch-topological.
